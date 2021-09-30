@@ -1,0 +1,166 @@
+
+<!Doctype html>
+ <html>
+   <head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0px">
+		<title>Onilne Shopping (Simple UI)</title>
+		<link rel="stylesheet" type="text/css" href="style1.css">
+   </head>
+	<body>
+	<div class="header">
+ 	<div class="logo" style="float: left;">
+
+	<img src="images/myntralogo.png" height="60px" width="60px"style="margin-top:10px;margin-left:80px;">
+		</div>
+		<div class="list-style">
+		
+		<ul class="un1">
+			<li class="l1"><a href=" ">Men</a></li>
+			<li class="l1"><a href=" ">Women</a></li>
+			<li class="l1"><a href=" ">Kids</a></li>
+			<li class="l1"><a href=" ">Home & Living</a></li>
+			<li class="l1"><a href=" ">Offers</a></li>
+      </ul>
+      </div>
+      <div class="input" style="float: left">
+      <input type="text" name="search bar" class="search" placeholder="Search for product" >
+    </div>
+  
+    <div class="nav">
+    	<div class="profile"> 
+    	
+    		<image src="images/pro.gif" >
+    		
+    	<center><span style="font-size: 12px;"><b>Profile</b></span></center>
+    </div>
+    <div class="wishlist">
+      <img src="images/wish2.gif" lspace="10px" vspace="1px">
+    	<center><span style="font-size:12px;"><b>Wishlist</b></span></center>
+    </div>
+    <div class="bag">
+    	<img src="images/bag.gif" vspace="2.3px">
+    	<center><span style="font-size:12px"><b>Bag</b></span></center>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+</div>
+  <br >
+  <hr style="margin-top:20px">
+  <div class="main">
+  	<a  target="_soft"> <img src="images/midimage.png"></a>
+  </div>
+  
+  <div class="icici">
+
+  <a href="#">	<img src="images/ic.jpeg" ></a>
+  </div>
+  <br>
+  <div class="excite">
+  	<a href="#"><img src="images/Excite.gif" align="center"></a>
+  </div>
+  <div class="exciting-deals">
+  <div class="bordr"><img src="images/serum.jpeg" ></div>
+<div class="bordr2"><img src="images/unique.jpeg"></a></div>
+<div class="bordr2"><img src="images/western.jpeg"></a></div>
+<div class="bordr2"><img src="images/footwear.jpeg"></a></div>
+<div class="bordr3"><img src="images/juti.jpeg"></a></div>
+</div>
+<div class="midhead">
+	<a ><img src="images/top.jpeg" style="margin-top:10px"></a>
+</div>
+<div class="top">
+	<br style="margin-top: 10px;">
+	<img src="images/Kurta.gif" height="250px" style="margin-left:50px">
+	<a ><img src="images/saree.gif" style="margin-left: 20px;"></a>
+	<a ><img src="images/dresses.gif" style="margin-left: 20px;"></a>
+	  <img src="images/Lingeri.gif" style="margin-left: 20px;">
+	<a ><img src="images/Loung.gif" style="margin-left: 20px;"></a>
+	<a ><img src="images/Jwell.gif" style="margin-left: 22px;"></a>
+	<a ><img src="images/Tops.gif" style="margin-left: 17px; "></a>
+	<a ><img src="images/Handbag.png" style="margin-left: 17px;"></a>
+	<a ><img src="images/Trackpants.gif" style="margin-left: 23px;"></a>
+	<a ><img src="images/Plus.png" style="margin-left: 17px;"></a>
+ </div>
+  <div class="midhead1">
+ <a > 	<img src="images/top1.gif" style="margin-top: 30px"></a>
+  </div>
+
+  <div class="top1">
+  	
+  <a ><img src="images/ts.gif" style="margin-left:40px"></a>
+	<a ><img src="images/loung1.gif" style="margin-left: 25px;"></a>
+	<a ><img src="images/shirt.png" style="margin-left: 25px;"></a>
+	<a ><img src="images/inner.gif" style="margin-left: 25px;"></a>
+	<a ><img src="images/track.png" style="margin-left: 25px;"></a>
+	<a ><img src="images/flip.gif" style="margin-left: 25px;"></a>
+	<a ><img src="images/shorts.gif" style="margin-left: 25px; "></a>
+	<a ><img src="images/sportshoe.gif" style="margin-left: 25px;"></a>
+	<a ><img src="images/kurta1.png" style="margin-left: 25px;"></a>
+	<a ><img src="images/Suits.png" style="margin-left: 25px;"></a>
+</div>
+<div class="midhead3"><img src="images/top2.gif" style="margin-top:10px"></div>
+
+
+
+<div class="top2">
+	<div class="top2-1">
+	<div class="mango"><img src="images/mango.gif" ></div>
+		<div class="mango"> <img src="images/roadster.gif"></div>
+	<div class="mango">	<img src="images/fossil.gif"></div>
+	</div>
+	<div class="top2-2">
+		<div class="mango">	<img src="images/Hm.png" ></div>
+		<div class="mango"> <img src="images/mh.gif"></div>
+	<div class="mango">	<img src="images/vero.gif"></div>
+	</div>
+  <div class="top2-3">
+		<div class="mango">	<img src="images/us.gif" ></div>
+		<div class="mango"> <img src="images/hn.gif"></div>
+	<div class="mango">	<img src="images/dove.gif"></div>
+	</div>
+	<div class="top2-4">
+		<div class="mango">	<img src="images/w.jpeg" ></div>
+		<div class="mango"> <img src="images/max.jpeg"></div>
+		<div class="max1"><img src="images/max1.jpeg"></div>
+	<div class="mango">	<img src="images/louis.jpeg"></div>
+	</div>
+	<div class="top2-5">
+		<div class="mango">	<img src="images/Hrx.jpeg" ></div>
+		<div class="mango"> <img src="images/nike.jpeg"></div>
+	<div class="mango">	<img src="images/libas.jpeg"></div>
+	</div>
+</div>
+<div class="footer">
+	<div class="footer-section">
+	<span class="footer-heading">ONLINE SHOPPING</span>
+		<ul>
+			<li>Men</li>
+			<li>Women</li>
+			<li>Kids</li>
+			<li>Home&Living</li>
+			<li>Offers</li>
+			<li>Gift Cards</li>
+			<li>Myntra Insider<button style="border-radius:10px;background:red;color:white;outline:none;font-weight:bold;cursor:pointer">New</button></li>
+		</ul>
+	</div>
+	<div class="footer-section footer-section1">
+	<span class="footer-heading" >USEFUL LINKS</span>
+		<ul>
+			<li>FAQ</li>
+			<li>T&C</li>
+			<li>Terms of Use</li>
+			<li>Track orders</li>
+			<li>Shipping</li>
+			<li>Cancellation</li>
+			<li>Returns</li>
+			<li>Whitahat</li>
+			<li>Blog</li>
+			<li>Careers</li>
+			<li>Privacy Policy</li>
+			<li>Situ Map</li>
+		</ul>
+	</div>
+	
+	</body>
+	</html>
