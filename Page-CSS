@@ -1,0 +1,37 @@
+.header{background: whitesmoke;position:fixed;height:80px; width:100%;top: 0px;left: 0px;z-index: 100;}
+.list-style{height:50px;left:20px;top:10px;margin-right: 20px;}
+.logo, .list-style, .search,.un1 li {float: left;}
+.un1 {float: left;text-align:center;list-style-type:none;margin-left: 50px;padding: 0px;background: whitesmoke;border: none;}
+li a{float: left; text-align: center;padding: 20px;text-decoration: underline;border: none;background: whitesmoke;}
+.l1 a:hover{color: lightpink;background: blue;}
+.input{ height: 40px;width: 400px; border-radius: 5px;border: none;margin-left: 60px;}
+.search{height: 40px;width:400px;background:#f5f5f6;border-radius: 5px;border: none;margin-left: 70px;background: white;margin-top: 10px;}
+.nav{height: 40px;width: 120px; margin-left: 90%; margin-top: 8px;}
+.profile{height: 20px;width: 20px;position: relative;cursor: pointer;float: left;}
+.wishlist{height: 30px;width: 30px;position: relative;float: left; margin-left: 20px;}
+.bag{height: 30px;width: 30px;position: relative;float: left; margin-left: 16px;}
+.main{width: 1300px}
+.icici{width: 100%;height: 50px;border-collapse: collapse;margin-left: 5%;}
+.excite{align-items: center; border: none; margin-left: 25%; margin-right: 25%;}
+.exciting-deals{height: 350px; margin-left: 26px; width: 100%;}
+.bordr{border: 1px;border: solid lightblue;width: 218px;float: left;margin-right: 38px;margin-left: 15px;}
+.bordr2{;border: 10px;border: solid lightblue;width: 218px;float: left; margin-right: 38px;}
+.bordr3{border: 10px;border: solid lightblue;width: 214px;float: left; margin-right: 38px;}
+.midhead{height: 55px;width: 545px;margin-left: 31%;}
+.top{height: 560px;width: 100%;border: none;float: left;margin-top: 20px;}
+.midhead1{height: 55px;width: 545px;margin-left: 31%;margin-top: 0px;}
+.top1{height: 540px;width: 100%;border: none;float: left; margin-top: 100px;}
+.midhead3{height: 55px;width: 545px;margin-left: 31%;margin-top: 10px;}
+.top2{height: 1100px;width: auto;float: left; margin-top: 100px;margin-left: 30px;cursor: pointer;border-color: solid black;border: 2px;}
+.top2-1{height: 1060px; width: 220px;margin-top: 10px;margin-left: 20px;float: left; background: #f5f5f6;}
+.top2-2{height: 1060px; width: 220px;margin-top: 10px;margin-left: 30px;float: left;background: #f5f5f6;}
+.top2-3{height: 1060px; width: 220px;margin-top: 10px;margin-left: 30px;float: left;background: #f5f5f6;}
+.top2-4{height: 1060px; width: 220px;margin-top: 10px;margin-left: 30px;float: left;background: #f5f5f6;}
+.top2-5{height: 1060px; width: 220px;margin-top: 10px;margin-left: 30px;float: left;margin-right: 20px;background: #f5f5f6;}
+.mango{margin-left: 9px;margin-bottom: 10px;margin-top: 10px;}
+.footer{height:340px;width:1200px;margin:10px auto;}
+.footer-section{height:310px;width:200px;margin:20px 11px;}
+
+.footer-section,footer-section1,.footer-section2,.footer-section3{float:left;}
+ul li{list-style:none;margin:5px 0px;font-size:14px;color:gray;cursor:pointer;}
+
