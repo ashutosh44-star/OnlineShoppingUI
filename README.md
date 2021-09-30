@@ -1,2 +1,2 @@
 # OnlineShoppingUI
-A Simple UI Module for Online Shop[ing Website
+A Simple UI Module for Online Shopping Website
